@@ -6,7 +6,7 @@ Pipex is a project at 42 School that involves recreating the functionality of th
 ## How to Use (Mandatory)
 Follow these steps to use Pipex for the mandatory part, which involves executing two commands in succession:
 
-1. **Clone this repository:**
+1. **Execute mandatory:**
    ```bash
    ./pipex file1 "cmd1" "cmd2" file2
 
@@ -16,7 +16,7 @@ Follow these steps to use Pipex for the mandatory part, which involves executing
 ## How to Use (Bonus)
 Follow these steps to use Pipex for the bonus part, which allows for an arbitrary number of commands:
 
-1. **Clone this repository:**
+1. **Execute bonus:**
    ```bash
    ./pipex file1 "cmd1" "cmd2" ... "cmdn" file2
 
